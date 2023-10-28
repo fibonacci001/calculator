@@ -1,0 +1,442 @@
+
+body {
+    transition: background-color 1s ease;
+}
+
+.firstbodystyle {
+    font-family: 'League Spartan', sans-serif; 
+    background-color: hsl(222, 26%, 31%);
+}
+.secondbodystyle {
+    font-family: 'League Spartan', sans-serif; 
+    background-color: hsl(0, 0%, 93%);
+}
+.thirdbodystyle {
+    font-family: 'League Spartan', sans-serif; 
+    background-color: hsl(268, 71%, 12%);
+}
+
+
+
+
+
+
+
+.ouy {
+    transition: all 0.5 ease; 
+}
+
+
+.range {
+    transition: all 0.5 ease;
+    }
+
+
+
+
+
+
+.firstrangestyle {
+color: white;
+}
+
+.secondrangestyle {
+    color: hsl(60, 10%, 19%);
+}
+
+.thirdrangestyle {
+ color: hsl(52, 100%, 62%);   
+}
+
+
+.cal {
+    transition: all 0.5 ease;
+
+}
+.firstcalstyle {
+    color: white;
+}
+.secondcalstyle {
+    color: hsl(60, 10%, 19%);
+}
+
+.thirdcalstyle {
+ color: hsl(52, 100%, 62%);   
+}
+
+
+
+.atstyle1 {
+    color: white;
+}
+.linkstyle1 {
+    color: hsl(6, 63%, 50%);
+}
+
+.atstyle2 {
+    color: hsl(185, 42%, 37%);
+}
+.linkstyle2 {
+    color: hsl(25, 98%, 40%);
+}
+.atstyle3 {
+    color: hsl(52, 100%, 62%);
+}
+.linkstyle3 {
+    color: hsl(0, 0%, 100%);
+}
+
+
+
+
+
+
+.display {
+    transition: all 0.5 ease;
+
+}
+.firstdisplaystyle {
+    background-color: hsl(224, 36%, 15%);
+    color: white;
+    width: 100%;
+    padding: 1.5rem;
+    border-radius: 10px;
+}
+.seconddisplaystyle {
+    background-color: hsl(0, 5%, 81%);
+    color: hsl(60, 10%, 19%);
+    width: 100%;
+    padding: 1.5rem;
+    border-radius: 10px;
+}
+
+.thirddisplaystyle {
+    background-color: hsl(268, 76%, 18%);
+    color: hsl(52, 100%, 62%);
+    width: 100%;
+    padding: 1.5rem;
+    border-radius: 10px;
+}
+
+
+.make {
+    width: 300px;
+    margin: 0 auto;
+
+}
+
+
+
+.number {
+    /* width: 30px; */
+    padding: 5px 25px 5px 25px;
+
+border-radius: 5px;
+
+transition: background-color 0.5s ease;
+
+}
+
+.firstnumstyle {
+   
+background-color: hsl(30, 25%, 89%);
+
+color: hsl(221, 14%, 31%);
+-webkit-box-shadow: 0px 3px 2px #B4A597;
+  -moz-box-shadow: 0px 3px 2px #B4A597;
+  box-shadow: 0px 3px 2px #B4A597;
+
+
+}
+.firstnumstyle:hover {
+    background-color: white;
+}
+.secondnumstyle {
+   
+    background-color: hsl(45, 7%, 89%);
+    
+    color: hsl(60, 10%, 19%);
+    -webkit-box-shadow: 0px 3px 2px hsl(35, 11%, 61%);
+      -moz-box-shadow: 0px 3px 2px hsl(35, 11%, 61%);
+      box-shadow: 0px 3px 2px hsl(35, 11%, 61%);
+    
+    
+    }
+    .secondnumstyle:hover {
+        background-color: white;
+    }
+
+    .thirdnumstyle {
+   
+        background-color: hsl(268, 47%, 21%);
+        
+        color: hsl(52, 100%, 62%);
+        -webkit-box-shadow: 0px 3px 2px hsl(290, 70%, 36%);
+          -moz-box-shadow: 0px 3px 2px hsl(290, 70%, 36%);
+          box-shadow: 0px 3px 2px hsl(290, 70%, 36%);
+        
+        
+        }
+        .thirdnumstyle:hover {
+            background-color: hsl(285, 91%, 52%);
+        }
+
+
+
+
+.signs {
+    padding: 5px 25px 5px 25px;
+
+border-radius: 5px;
+
+text-align: center;
+
+  transition: background-color 0.5s ease;
+}
+
+
+
+
+
+
+
+.opreator {
+    padding: 5px 25px 5px 25px;
+
+border-radius: 5px;
+
+  transition: color 0.5s ease;
+}
+.opreator:hover {
+    color: white;
+}
+
+
+.firstsignstyle {
+    
+background-color: hsl(225, 21%, 49%);
+
+color: hsl(221, 14%, 31%);
+-webkit-box-shadow: 0px 3px 2px #404E72;
+  -moz-box-shadow: 0px 3px 2px #404E72;
+  box-shadow: 0px 3px 2px #404E72;
+  
+}
+.firstsignstyle:hover {
+    color: white;
+}
+
+.secondsignstyle {
+    
+    background-color: hsl(185, 42%, 37%);
+    
+    color: hsl(60, 10%, 19%);
+    -webkit-box-shadow: 0px 3px 2px hsl(185, 58%, 25%);
+      -moz-box-shadow: 0px 3px 2px hsl(185, 58%, 25%);
+      box-shadow: 0px 3px 2px hsl(185, 58%, 25%);
+      
+    }
+    .secondsignstyle:hover {
+        color: white;
+    }
+
+    .thirdsignstyle {
+    
+        background-color: hsl(281, 89%, 26%);
+        
+        color: hsl(52, 100%, 62%);
+        -webkit-box-shadow: 0px 3px 2px hsl(285, 91%, 52%);
+          -moz-box-shadow: 0px 3px 2px hsl(285, 91%, 52%);
+          box-shadow: 0px 3px 2px hsl(285, 91%, 52%);
+          
+        }
+        .thirdsignstyle:hover {
+            background-color: hsl(285, 91%, 46%);
+            color: white;
+        }
+
+
+.opreators {
+    padding: 5px 25px 5px 25px;
+
+border-radius: 5px;
+
+  transition: color 0.5s ease;
+}
+
+.firstopreators_style {
+    
+background-color: hsl(6, 63%, 50%);
+color: hsl(221, 14%, 31%);
+-webkit-box-shadow: 0px 3px 2px #93261A;
+  -moz-box-shadow: 0px 3px 2px #93261A;
+  box-shadow: 0px 3px 2px #93261A;
+  transition: color 0.5s ease;
+}
+.firstopreators_style:hover {
+    color: white;
+}
+
+.secondopreators_style {
+    
+    background-color: hsl(25, 98%, 40%);
+    color: hsl(60, 10%, 19%);
+    -webkit-box-shadow: 0px 3px 2px hsl(25, 99%, 27%);
+      -moz-box-shadow: 0px 3px 2px hsl(25, 99%, 27%);
+      box-shadow: 0px 3px 2px hsl(25, 99%, 27%);
+      transition: color 0.5s ease;
+    }
+    .secondopreators_style:hover {
+        color: white;
+    }
+
+    .thirdopreators_style {
+    
+        background-color: hsl(176, 100%, 44%);
+        color: hsl(52, 100%, 62%);
+        -webkit-box-shadow: 0px 3px 2px hsl(177, 92%, 70%);
+          -moz-box-shadow: 0px 3px 2px hsl(177, 92%, 70%);
+          box-shadow: 0px 3px 2px hsl(177, 92%, 70%);
+          transition: color 0.5s ease;
+        }
+        .thirdopreators_style:hover {
+            color: hsl(198, 20%, 13%);
+        }
+    
+
+
+
+.numbers {
+    
+    border-radius: 5px;
+    transition: all 0.5s ease;
+}
+.firstnumhold {
+    background-color: hsl(223, 31%, 20%);
+}
+.secondnumhold {
+    background-color: hsl(0, 5%, 81%);
+}
+.thirdnumhold {
+    background-color: hsl(268, 76%, 18%);
+}
+
+
+
+.ranger {
+    transition: all 0.5 ease;
+}
+
+.firstrangerstyle {
+    width: 3rem;
+    height: 1rem;
+    -webkit-appearance: none;
+    background: hsl(223, 31%, 20%);
+    outline: none;
+    border-radius: 15px;
+    cursor: pointer;
+    box-shadow: inset 0 0 5px hsl(222, 30%, 11%);
+}
+.firstrangerstyle::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 1rem;
+    height: 1rem;
+    border-radius: 50%;
+    background-color: hsl(6, 63%, 50%);
+
+}
+
+.secondrangerstyle {
+    width: 3rem;
+    height: 1rem;
+    -webkit-appearance: none;
+    background: hsl(0, 5%, 81%);
+    outline: none;
+    border-radius: 15px;
+    cursor: pointer;
+    box-shadow: inset 0 0 5px hsl(222, 30%, 11%);
+}
+.secondrangerstyle::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 1rem;
+    height: 1rem;
+    border-radius: 50%;
+    background-color: hsl(25, 98%, 40%);
+
+}
+.thirdrangerstyle {
+    width: 3rem;
+    height: 1rem;
+    -webkit-appearance: none;
+    background: hsl(268, 71%, 12%);
+    outline: none;
+    border-radius: 15px;
+    cursor: pointer;
+    box-shadow: inset 0 0 5px hsl(222, 30%, 11%);
+}
+.thirdrangerstyle::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 1rem;
+    height: 1rem;
+    border-radius: 50%;
+    background-color: hsl(176, 100%, 44%);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.selector {
+    display: flex;
+    width: 90%;
+    font-size: 10px;
+    justify-content: space-between;
+    
+   
+}
+.dirt {
+    display: inline-block;
+}
+
+
+
+
+
+
+@media (max-width:500px) {
+
+    .make {
+        margin-top: 10rem;
+        width: 270px;
+    }
+    .number {
+        width: 50px;
+        padding: 10px 5px 10px 5px;
+        text-align: center;
+    }
+    .signs {
+        width: 50px;
+        padding: 10px 5px 10px 5px;
+        text-align: center; 
+    }
+    .del {
+        padding: 10px 5px 10px 5px;
+        width: 50px;
+        text-align: center; 
+    }
+}
